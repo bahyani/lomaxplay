@@ -6,6 +6,11 @@ Beyond Gaming
 
 ---
 
+[![Login](https://docs.lomaxplay.com/assets/images/1.png)
+[![Sign Up](https://docs.lomaxplay.com/assets/images/2.png)
+[![User Dashboard](https://docs.lomaxplay.com/assets/images/3.png)
+[![Tournaments](https://docs.lomaxplay.com/assets/images/4.png)
+
 ## 📖 About LOMAX PLAY
 
 LOMAX PLAY is a comprehensive gaming platform that brings together competitive gaming, social connectivity, and software accessibility. Built for the Global gaming community, it provides a seamless experience for gamers to compete in tournaments, connect with fellow players, and access premium gaming software on-demand.
