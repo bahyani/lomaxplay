@@ -6,10 +6,10 @@ Beyond Gaming
 
 ---
 
-[![Login](https://docs.lomaxplay.com/assets/images/1.png)
-[![Sign Up](https://docs.lomaxplay.com/assets/images/2.png)
-[![User Dashboard](https://docs.lomaxplay.com/assets/images/3.png)
-[![Tournaments](https://docs.lomaxplay.com/assets/images/4.png)
+[![Login](https://docs.lomaxplay.com/assets/images/1.png)]
+[![Sign Up](https://docs.lomaxplay.com/assets/images/2.png)]
+[![User Dashboard](https://docs.lomaxplay.com/assets/images/3.png)]
+[![Tournaments](https://docs.lomaxplay.com/assets/images/4.png)]
 
 ## 📖 About LOMAX PLAY
 
