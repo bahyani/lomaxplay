@@ -76,39 +76,8 @@ LOMAX PLAY is a comprehensive gaming platform that brings together competitive g
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/lomax-play.git
+   git clone https://github.com/bahyani/lomax-play.git
    cd lomax-play
-   ```
-
-2. **Configure Database**
-   ```bash
-   # Create database
-   mysql -u root -p
-   CREATE DATABASE lomax_play;
-   exit;
-   
-   # Import schema
-   mysql -u root -p lomax_play < database/schema.sql
-   ```
-
-3. **Update Configuration**
-   ```php
-   // php/config.php
-   define('DB_HOST', 'localhost');
-   define('DB_USER', 'your_username');
-   define('DB_PASS', 'your_password');
-   define('DB_NAME', 'lomax_play');
-   ```
-
-4. **Set Permissions**
-   ```bash
-   chmod -R 755 assets/
-   chmod -R 755 uploads/
-   ```
-
-5. **Create Admin User**
-   ```sql
-   UPDATE users SET role = 'admin' WHERE user_id = 1;
    ```
 
 ### Frontend Setup (Next.js Homepage)
